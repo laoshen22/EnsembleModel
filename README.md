@@ -16,7 +16,7 @@
 coding 包括划分数据为training 和 testing 到parallel computing 到模型训练 到ensemble。
 
 
-## 有关the parallel computing
+# 有关the parallel computing
 
 * <https://topepo.github.io/caret/parallel-processing.html>
 
