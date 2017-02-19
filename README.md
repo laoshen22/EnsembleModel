@@ -13,9 +13,10 @@
 * [8] "glmnet"                                                   
 * [9] "Boosted Tree"
 
-
-
-
 coding 包括划分数据为training 和 testing 到parallel computing 到模型训练 到ensemble。
 
-详细的the parallel computing可以在这里找， <https://topepo.github.io/caret/parallel-processing.html>
+
+## 有关the parallel computing
+
+<https://topepo.github.io/caret/parallel-processing.html>
+<https://rpubs.com/msundar/large_data_analysis>
