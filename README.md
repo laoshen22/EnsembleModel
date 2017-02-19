@@ -18,5 +18,6 @@ coding 包括划分数据为training 和 testing 到parallel computing 到模型
 
 ## 有关the parallel computing
 
-<https://topepo.github.io/caret/parallel-processing.html>
-<https://rpubs.com/msundar/large_data_analysis>
+* <https://topepo.github.io/caret/parallel-processing.html>
+
+* <https://rpubs.com/msundar/large_data_analysis>
