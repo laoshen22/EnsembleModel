@@ -10,4 +10,8 @@
 [7] "Generalized Additive Model using Splines"                 
 [8] "glmnet"                                                   
 [9] "Boosted Tree"
+
+
+
+
 coding 包括划分数据为training 和 testing 到parallel computing 到模型训练 到ensemble。
