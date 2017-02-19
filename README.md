@@ -18,6 +18,14 @@ coding 包括划分数据为training 和 testing 到parallel computing 到模型
 
 # 有关the parallel computing
 
+在caret中用以下code
+```
+set.seed(800)
+detectCores()
+registerDoParallel(48,cores=48)
+getDoParWorkers()
+```
+
 * <https://topepo.github.io/caret/parallel-processing.html>
 
 * <https://rpubs.com/msundar/large_data_analysis>
